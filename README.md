@@ -33,8 +33,8 @@
       <td>14 <br /> ✅ Day 10: <br /> (2632) Curry</td>
     </tr>
     <tr>
-      <td>15 <br /> ❌ Day 11: ?</td>
-      <td>16 <br /> ❌ Day 12: ?</td>
+      <td>15 <br /> ✅ Day 11: <br /> (2621) Sleep</td>
+      <td>16 <br /> ✅ Day 12: <br /> (2637) Promise Time Limit</td>
       <td>17 <br /> ❌ Day 13: ?</td>
       <td>18 <br /> ❌ Day 14: ?</td>
       <td>19 <br /> ❌ Day 15: ?</td>
