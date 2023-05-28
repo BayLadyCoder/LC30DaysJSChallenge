@@ -19,12 +19,12 @@ Leetcode 30 Days Javascript Challenge
       <td></td>
       <td></td>
       <td></td>
-      <td>5 <br /> ✅  Day 1: Create Hello World Function</td>
-      <td>6 <br /> ✅ Day 2: Counter</td>
-      <td>7 <br /> ✅ Day 3: Counter ||</td>
+      <td>5 <br /> ✅  Day 1 <br /> (2667) Create Hello World Function</td>
+      <td>6 <br /> ✅ Day 2 <br /> (2620) Counter</td>
+      <td>7 <br /> ✅ Day 3 <br /> (2665) Counter ||</td>
     </tr>
     <tr>
-      <td>8 <br /> ❌ Day 4: ?</td>
+      <td>8 <br /> ✅ Day 4 <br /> (2635) Apply Transform Over Each Element in Array</td>
       <td>9 <br /> ❌ Day 5: ?</td>
       <td>10 <br /> ❌ Day 6: ?</td>
       <td>11 <br /> ❌ Day 7: ?</td>
