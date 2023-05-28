@@ -19,7 +19,7 @@ Leetcode 30 Days Javascript Challenge
       <td></td>
       <td></td>
       <td></td>
-      <td>5 <br /> ✅  Day 1 <br /> (2667) Create Hello World Function</td>
+      <td>5 <br /> ✅  Day 1 <br /> [2667](https://leetcode.com/problems/create-hello-world-function/) Create Hello World Function</td>
       <td>6 <br /> ✅ Day 2 <br /> (2620) Counter</td>
       <td>7 <br /> ✅ Day 3 <br /> (2665) Counter ||</td>
     </tr>
@@ -61,3 +61,4 @@ Leetcode 30 Days Javascript Challenge
     </tr>
   </tbody>
 </table>
+
