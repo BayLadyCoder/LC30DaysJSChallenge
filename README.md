@@ -25,8 +25,8 @@
     </tr>
     <tr>
       <td>8 <br /> ✅ Day 4 <br /> (2635) Apply Transform Over Each Element in Array</td>
-      <td>9 <br /> ❌ Day 5: ?</td>
-      <td>10 <br /> ❌ Day 6: ?</td>
+      <td>9 <br /> ✅ Day 5: <br /> (2634) Filter Elements from Array</td>
+      <td>10 <br /> ✅ Day 6: <br /> (2626) Array Reduce Transformation</td>
       <td>11 <br /> ❌ Day 7: ?</td>
       <td>12 <br /> ❌ Day 8: ?</td>
       <td>13 <br /> ❌ Day 9: ?</td>
