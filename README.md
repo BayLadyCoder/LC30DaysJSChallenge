@@ -30,7 +30,7 @@
       <td>11 <br /> ✅ Day 7: <br /> (2629) Function Composition</td>
       <td>12 <br /> ✅ Day 8: <br /> (2666) Allow One Function Call</td>
       <td>13 <br /> ✅ Day 9: <br /> (2623) Memoize</td>
-      <td>14 <br /> ❌ Day 10: ?</td>
+      <td>14 <br /> ✅ Day 10: <br /> (2632) Curry</td>
     </tr>
     <tr>
       <td>15 <br /> ❌ Day 11: ?</td>
