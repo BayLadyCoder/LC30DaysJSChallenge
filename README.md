@@ -35,28 +35,28 @@
     <tr>
       <td>15 <br /> ✅ Day 11: <br /> (2621) Sleep</td>
       <td>16 <br /> ✅ Day 12: <br /> (2637) Promise Time Limit</td>
-      <td>17 <br /> ❌ Day 13: ?</td>
-      <td>18 <br /> ❌ Day 14: ?</td>
-      <td>19 <br /> ❌ Day 15: ?</td>
-      <td>20 <br /> ❌ Day 16: ?</td>
-      <td>21 <br /> ❌ Day 17: ?</td>
+      <td>17 <br /> ❌ Day 13: Promise Pool</td>
+      <td>18 <br /> ❌ Day 14: Cache With Time Limit</td>
+      <td>19 <br /> ❌ Day 15: Debounce</td>
+      <td>20 <br /> ❌ Day 16: Throttle</td>
+      <td>21 <br /> ✅ Day 17: <br /> (2628) JSON Deep Equal</td>
     </tr>
     <tr>
-      <td>22 <br /> ❌ Day 18: ?</td>
-      <td>23 <br /> ❌ Day 19: ?</td>
-      <td>24 <br /> ❌ Day 20: ?</td>
-      <td>25 <br /> ❌ Day 21: ?</td>
-      <td>26 <br /> ❌ Day 22: ?</td>
-      <td>27 <br /> ❌ Day 23: ?</td>
-      <td>28 <br /> ❌ Day 24: ?</td>
+      <td>22 <br /> ✅ Day 18: <br /> (2633) Convert Object to JSON String</td>
+      <td>23 <br /> ❌ Day 19: Array of Objects to Matrix</td>
+      <td>24 <br /> ❌ Day 20: Differences Between Two Objects</td>
+      <td>25 <br /> ✅ Day 21: <br /> (2677) Chunk Array</td>
+      <td>26 <br /> ✅ Day 22: <br /> (2625) Flatten Deeply Nested Array</td>
+      <td>27 <br /> ✅ Day 23: <br /> (2619) Array Prototype Last</td>
+      <td>28 <br /> ✅ Day 24: <br /> (2631) Group By</td>
     </tr>
     <tr>
-      <td>29 <br /> ❌ Day 25: ?</td>
-      <td>30 <br /> ❌ Day 26: ?</td>
-      <td>31 <br /> ❌ Day 27: ?</td>
-      <td>1 <br /> ❌ Day 28: ?</td>
-      <td>2 <br /> ❌ Day 29: ?</td>
-      <td>3 <br /> ❌ Day 30: ?</td>
+      <td>29 <br /> ✅ Day 25: <br /> (2618) Check if Object Instance of Class</td>
+      <td>30 <br /> ✅ Day 26: <br /> (2693) Call Function with Custom Context</td>
+      <td>31 <br /> ❌ Day 27: Event Emitter</td>
+      <td>1 <br /> ✅ Day 28: <br /> (2695) Array Wrapper</td>
+      <td>2 <br /> ❌ Day 29: Generate Fibonacci Sequence</td>
+      <td>3 <br /> ❌ Day 30: Nested Array Generator</td>
       <td></td>
     </tr>
   </tbody>
